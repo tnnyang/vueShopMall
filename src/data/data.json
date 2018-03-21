@@ -1,0 +1,40 @@
+{
+  "status": 0,
+  "slider": [
+    {"img":"static/images/banner.jpg","href":"http://www.baidu.com"},
+    {"img":"static/images/banner.jpg","href":"http://www.163.com"},
+    {"img":"static/images/banner.jpg","href":"http://www.hurongclub.com"},
+    {"img":"static/images/banner.jpg","href":"http://www.sina.com.cn"}
+  ],
+  "products": [
+  	{
+		"subject": "电子产品", 
+		"moreUrl": "#",
+		"goodsType": "electronic",
+		"product": [
+			{"productUrl": "#", "productImg": "static/images/pro04.jpg", "productTitle": "iPhone X", "productPrice": "0", "productInvest": "130000", "productLimit":"9", "productMarket": "8388", "goodsPic":[
+				"static/images/goods1.jpg","static/images/goods2.jpg"]},
+			{"productUrl": "#", "productImg": "static/images/pro04.jpg", "productTitle": "iPhone X plus", "productPrice": "0", "productInvest": "130000", "productLimit":"12", "productMarket": "9388", "goodsPic":[
+				"static/images/goods1.jpg","static/images/goods2.jpg"]},
+			{"productUrl": "#", "productImg": "static/images/pro04.jpg", "productTitle": "iPhone8", "productPrice": "0", "productInvest": "100000", "productLimit":"3", "productMarket": "5888", "goodsPic":[
+				"static/images/goods1.jpg","static/images/goods2.jpg"]},
+			{"productUrl": "#", "productImg": "static/images/pro04.jpg", "productTitle": "iPhone8 plus", "productPrice": "0", "productInvest": "100000", "productLimit":"6", "productMarket": "6688", "goodsPic":[
+				"static/images/goods1.jpg","static/images/goods2.jpg"]}
+		]
+	},
+	{
+		"subject": "卡券票务", 
+		"moreUrl": "#",
+		"goodsType": "card",
+		"product": [
+			{"productUrl": "#", "productImg": "static/images/pro05.jpg", "productTitle": "惠花礼品卡(1个月4次) 含花瓶", "productPrice": "0", "productInvest": "3000", "productLimit":"12", "productMarket": "2500", "goodsPic":[
+				"static/images/goods3.jpg","static/images/goods4.jpg"
+			]},
+			{"productUrl": "#", "productImg": "static/images/pro05.jpg", "productTitle": "旅游券（面值2500元）", "productPrice": "0", "productInvest": "50000", "productLimit":"9", "productMarket": "1500", "goodsPic":[
+				"static/images/goods3.jpg","static/images/goods4.jpg"
+			]}
+		]
+	}
+  ],
+  "search": ["iphone", "手机", "Mac", "小米", "耳机", "手表", "Watch"]
+}
